@@ -1,0 +1,7 @@
+{
+  "name": "NutriScanVN",
+  "description": "An AI-powered calorie and nutrition scanner designed to help you effortlessly track your Vietnamese meals. Upload a photo of your food, and our AI will analyze its nutritional content, comparing it against your personal dietary goals. Includes a helpful AI chatbot for all your nutrition questions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
